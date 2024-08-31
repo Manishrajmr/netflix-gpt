@@ -9,6 +9,8 @@
 - form validation
 - useRef Hook
 
+- Authentication -> building authentication we need backend(firebase)
+
 # Features
 
 - Login/Sign UP
